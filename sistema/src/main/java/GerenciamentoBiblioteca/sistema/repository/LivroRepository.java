@@ -1,6 +1,6 @@
 package sistema.GerenciamentoBiblioteca.repository;
 
-import Gerenciamentobiblioteca.sistema.models.Livro;
+import gerenciamentobiblioteca.sistema.models.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
